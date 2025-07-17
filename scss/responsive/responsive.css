@@ -1,0 +1,225 @@
+@media (max-width: 575px) {
+  .left-card-content h4 {
+    color: #fff;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px; }
+
+  .right-hero {
+    margin-top: 20px; }
+
+  .left-card {
+    margin-bottom: 20px; }
+
+  .left-card-content button {
+    font-size: 14px;
+    padding-top: 8px; }
+
+  .menu-search {
+    height: 30px !important;
+    width: 100% !important; }
+
+  .logo-size {
+    max-width: 200px;
+    text-align: center; }
+
+  .top-content span {
+    font-size: 11px; }
+
+  .profile-info small {
+    font-size: 11px; }
+
+  .menu-searchbar-parent {
+    width: 100%;
+    display: none; }
+
+  .dnonemenudesk {
+    display: block; }
+
+  .right-hero {
+    margin-top: 20px !important; }
+
+  .right-hero-card h5 {
+    font-size: 18px;
+    padding-top: 15px; }
+
+  .right-hero-card p {
+    font-size: 14px; }
+
+  .right-hero-card svg {
+    max-width: 50px; }
+
+  .servicescard svg {
+    max-width: 35px; }
+
+  .servicescard-title {
+    font-size: 14px; }
+
+  .family-update-card {
+    margin-bottom: 20px; }
+
+  .family-update-card h4 {
+    font-size: 20px; }
+
+  .family-update-card p {
+    font-size: 14px; }
+
+  .family-update-card h5 {
+    font-size: 18px; }
+
+  .family-update-card a {
+    font-size: 14px; }
+
+  .services-section-header h4 {
+    font-size: 18px; }
+
+  .custom-tabs .nav-link {
+    font-size: 14px;
+    margin-left: 9px !important;
+    padding: 0 3px; }
+
+  .parentcare .media-title {
+    font-size: 14px; }
+
+  .enable-mobile-menu {
+    display: block; }
+
+  .enable-desktop-menu {
+    display: none; }
+
+  .logo-size {
+    max-width: 160px; }
+
+  .user-avatar {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px; }
+
+  .profile-info .enable-item-element {
+    display: none !important; }
+
+  .opinion-box {
+    padding: 30px; }
+
+  .mediadetailsbtn button {
+    margin-top: 20px; }
+
+  .mediadetailsbtn {
+    text-align: center; }
+
+  .custom-tabs .nav-link {
+    font-size: 11px; }
+
+  ul.nav.nav-tabss.custom-tabs {
+    justify-content: end !important; }
+
+  .filter-service ul.nav {
+    flex-wrap: nowrap; }
+
+  .filter-service {
+    display: flex;
+    justify-content: center; } }
+@media (min-width: 576px) and (max-width: 767px) {
+  .menu-search {
+    height: 30px !important;
+    width: 250px !important; }
+
+  .logo-size {
+    max-width: 190px; }
+
+  .right-hero {
+    margin-top: 20px !important; }
+
+  .right-hero-card h5 {
+    font-size: 18px;
+    padding-top: 15px; }
+
+  .right-hero-card p {
+    font-size: 14px; }
+
+  .right-hero-card svg {
+    max-width: 50px; }
+
+  .servicescard svg {
+    max-width: 35px; }
+
+  .servicescard-title {
+    font-size: 14px; }
+
+  .family-update-card {
+    margin-bottom: 20px; }
+
+  .family-update-card h4 {
+    font-size: 20px; }
+
+  .family-update-card p {
+    font-size: 14px; }
+
+  .family-update-card h5 {
+    font-size: 18px; }
+
+  .family-update-card a {
+    font-size: 14px; }
+
+  .services-section-header h4 {
+    font-size: 16px; }
+
+  .custom-tabs .nav-link {
+    font-size: 14px;
+    margin-left: 9px !important;
+    padding: 0 3px; }
+
+  .parentcare .media-title {
+    font-size: 14px; }
+
+  .enable-desktop-menu {
+    display: none; } }
+@media (min-width: 768px) and (max-width: 991px) {
+  .menu-search {
+    height: 30px !important;
+    width: 280px !important; }
+
+  .logo-size {
+    max-width: 200px; }
+
+  .left-card-content {
+    padding: 16px; }
+
+  .parentcare .media-title {
+    font-size: 16px; }
+
+  .right-hero {
+    margin-top: 20px !important; }
+
+  .family-update-card {
+    margin-bottom: 20px; }
+
+  .enable-desktop-menu {
+    display: none; } }
+@media (min-width: 992px) and (max-width: 1199px) {
+  .menu-searchbar {
+    height: 30px !important;
+    width: 320px !important; }
+
+  .logo-size {
+    max-width: 220px; }
+
+  .right-hero {
+    margin-top: 20px !important; }
+
+  .enable-desktop-menu {
+    display: none; } }
+@media (min-width: 1199px) and (max-width: 3000px) {
+  .menu-searchbar {
+    height: 45px !important;
+    width: 400px !important; }
+
+  .logo-size {
+    max-width: 280px; }
+
+  .enable-mobile-menu {
+    display: none; }
+
+  .enable-desktop-menu {
+    display: block; } }

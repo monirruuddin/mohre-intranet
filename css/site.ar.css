@@ -1,0 +1,184 @@
+/* common setteing start*/
+ol,
+li,
+ul,
+p,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif; }
+
+li {
+  list-style: none; }
+
+a:hover {
+  text-decoration: none; }
+
+h2 {
+  margin-bottom: 20px;
+  font-size: 30px;
+  font-weight: 300; }
+
+body {
+  font-family: 'inter', sans-serif;
+  overflow-x: hidden;
+  background: #fff !important; }
+
+.icon img:focus {
+  outline: 0px; }
+
+.btn-custom {
+  font-size: 16px;
+  border: none;
+  background-color: transparent;
+  padding-top: 20px; }
+
+/* Hero Section Start */
+.left-card {
+  position: relative; }
+
+.left-card img {
+  max-width: 100%;
+  position: relative;
+  border-radius: 8px; }
+
+.left-card-content {
+  border-radius: 8px;
+  background: rgba(187, 152, 92, 0.8);
+  padding: 25px;
+  position: absolute;
+  bottom: 0;
+  width: 100%; }
+
+.left-card-content h4 {
+  color: #FFF;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px; }
+
+.left-card-content button {
+  font-size: 16px;
+  border: none;
+  background-color: transparent;
+  color: #fff;
+  padding-top: 8px;
+  padding: 0; }
+
+.left-card-content button:hover {
+  background-color: transparent; }
+
+.services-section-header {
+  display: flex; }
+
+.primary-color {
+  color: #BB985C; }
+
+.backg-color {
+  background-color: #FDF9F2 !important;
+  border-radius: 8px;
+  border: 1px solid rgba(187, 152, 92, 0.5) !important;
+  background: #FFFCF6;
+  border-radius: 10px;
+  box-shadow: 0px 20px 40px 0px rgba(0, 0, 0, 0.1); }
+
+.media-section {
+  padding-top: 40px; }
+
+.family-update-card {
+  padding: 50px 30px; }
+
+.family-arrow {
+  position: absolute;
+  bottom: 0px;
+  right: 10px; }
+
+.hero-slider-item {
+  width: 100%;
+  overflow: hidden; }
+
+/* Modal content styling */
+#languageModal .modal-content {
+  border-radius: 12px;
+  padding: 20px;
+  border: none;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+  background-color: #fff;
+  position: relative; }
+
+/* Close button */
+#languageModal .btn-close {
+  position: absolute;
+  top: 15px;
+  right: 15px; }
+
+/* Language header section */
+.lang-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 20px; }
+
+.lang-primary {
+  font-weight: 600;
+  color: #0d6efd;
+  text-decoration: none;
+  font-size: 18px; }
+
+.lang-primary:hover {
+  text-decoration: underline; }
+
+/* Divider between main languages */
+.lang-primary-divider {
+  width: 1px;
+  height: 24px;
+  background-color: #ccc; }
+
+/* Other languages section */
+.lang-other {
+  margin-top: 10px; }
+
+.lang-other-title {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 10px;
+  color: #333; }
+
+/* Bottom warning/info text */
+.lang-xt-content {
+  margin-top: 20px;
+  font-size: 13px;
+  color: #777;
+  text-align: center;
+  line-height: 1.4; }
+
+/* Optional: language link list under Other languages */
+.lang-other .wrap a {
+  display: block;
+  padding: 6px 0;
+  font-size: 15px;
+  color: #444;
+  text-decoration: none; }
+
+.lang-other .wrap a:hover {
+  color: #0d6efd; }
+
+.hero-slider .owl-dots {
+  position: absolute;
+  bottom: 25px;
+  right: 30px; }
+
+.hero-slider .owl-dots span {
+  background-color: #ffffff8f; }
+
+.hero-slider .owl-dot.active span {
+  background: #fff;
+  width: 13px;
+  height: 13px; }

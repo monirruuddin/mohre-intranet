@@ -1,0 +1,33 @@
+.mediadetailsbtn button {
+  color: #bb985c;
+  font-size: 16px;
+  font-weight: 600; }
+
+.owl-dots {
+  text-align: center;
+  margin-top: 15px;
+  align-self: center; }
+
+.owl-dot span {
+  width: 10px;
+  height: 10px;
+  background: #ccc;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 5px; }
+
+.owl-dot.active span {
+  background: #bf2300;
+  /* your primary color */
+  width: 13px;
+  height: 13px; }
+
+.familyupdate-slider .owl-nav {
+  text-align: end; }
+
+.familyupdate-slider .owl-nav span {
+  font-size: 40px;
+  margin: 0 5px;
+  color: #bb985c; }
+
+/*# sourceMappingURL=media.css.map */
